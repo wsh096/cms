@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/cms.domain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/cms.domain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cms.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cms.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order/cms.order.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order/cms.order.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user/cms.user.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user/cms.user.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/source-tree-cms.iml" filepath="$PROJECT_DIR$/.idea/source-tree-cms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user.main.iml" />
     </modules>
   </component>
 </project>
